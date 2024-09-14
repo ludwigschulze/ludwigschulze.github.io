@@ -302,6 +302,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  # - jekyll-sitemap (remove this line)
   - jemoji
 
 
