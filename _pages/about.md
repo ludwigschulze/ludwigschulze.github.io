@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student at the **European University Institute** in Florence. This Fall Term I am visiting the London School of Economics (LSE). My work focuses on the political effects of communism and how it shaped attitudes towards authoritarianism, identities and political conflicts. I am deploying various research designs and causal inference methods. 
+I am a doctoral student at the **European University Institute** in Florence. This Fall Term, I am visiting the London School of Economics (LSE). My work focuses on the political effects of communism and how it shaped attitudes towards authoritarianism, identities and political conflicts. I am deploying various research designs and causal inference methods. 
 
 
 **Working Papers**  
